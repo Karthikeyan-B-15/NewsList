@@ -3,10 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Tringapps-Admin/AndroidStudioProjects/NewsList/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
-        <entry key="..\:/Users/Tringapps-Admin/AndroidStudioProjects/NewsList/app/src/main/res/layout/headline_centric.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/Tringapps-Admin/AndroidStudioProjects/NewsList/app/src/main/res/drawable/ic_baseline_play_arrow.xml" value="0.184" />
+        <entry key="..\:/Users/Tringapps-Admin/AndroidStudioProjects/NewsList/app/src/main/res/drawable/style.xml" value="0.183" />
+        <entry key="..\:/Users/Tringapps-Admin/AndroidStudioProjects/NewsList/app/src/main/res/drawable/trans.xml" value="0.1" />
+        <entry key="..\:/Users/Tringapps-Admin/AndroidStudioProjects/NewsList/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Tringapps-Admin/AndroidStudioProjects/NewsList/app/src/main/res/layout/headitem.xml" value="0.22" />
+        <entry key="..\:/Users/Tringapps-Admin/AndroidStudioProjects/NewsList/app/src/main/res/layout/headline_centric.xml" value="0.14666666666666667" />
         <entry key="..\:/Users/Tringapps-Admin/AndroidStudioProjects/NewsList/app/src/main/res/layout/list_centric.xml" value="0.17447916666666666" />
-        <entry key="..\:/Users/Tringapps-Admin/AndroidStudioProjects/NewsList/app/src/main/res/layout/photo_centric.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Tringapps-Admin/AndroidStudioProjects/NewsList/app/src/main/res/layout/listitem.xml" value="0.1" />
+        <entry key="..\:/Users/Tringapps-Admin/AndroidStudioProjects/NewsList/app/src/main/res/layout/photo_centric.xml" value="0.1" />
+        <entry key="..\:/Users/Tringapps-Admin/AndroidStudioProjects/NewsList/app/src/main/res/layout/photoitem.xml" value="0.1743659420289855" />
       </map>
     </option>
   </component>
